@@ -21,7 +21,7 @@ Follow along to create, partition, format, and configure a bootable Void Linux e
 
 - A linux system with **QEMU** pkg installed (for creating and running the disk image).
 - Basic command-line knowledge.
-- Internet connection (to download the rootfs tarball and nescessary pkgs).
+- Internet connection (to download the rootfs tarball and necessary pkgs).
 
 ## Contributing
 
