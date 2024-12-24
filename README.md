@@ -6,29 +6,20 @@ Follow along to create, partition, format, and configure a bootable Void Linux e
 
 ## Table of Contents
 
-1. [Introduction](./docs/00-intro.md)
-2. [Create a Disk Image](./docs/01-create-disk-image.md)
-3. [Partition the Disk](./docs/02-partition-disk.md)
-4. [Format and Mount Partitions](./docs/03-format-and-mount.md)
-5. [Extract Void Linux RootFS](./docs/04-extract-rootfs.md)
-6. [Chroot & Setup](./docs/05-chroot-and-setup.md)
-7. [System Update & Packages](./docs/06-system-update-and-packages.md)
-8. [Configure fstab](./docs/07-configure-fstab.md)
-9. [Install GRUB](./docs/08-install-grub.md)
-10. [Finishing Touches](./docs/09-finishing-touches.md)
+1. Creating a disk image with QEMU.
+2. Partitioning and formatting the disk.
+3. Setting up a root filesystem for Void Linux.
+4. Installing and configuring the GRUB bootloader.
+5. Setting up locales, hostname, and other system configurations.
+6. Transferring the disk image and creating a virtual machine.
 
-## What You'll Need
+## Requisites
 
 - A linux system with **QEMU** pkg installed (for creating and running the disk image).
 - Basic command-line knowledge.
 - Internet connection (to download the rootfs tarball and necessary pkgs).
 
-## Contributing
-
-Feel free to submit pull requests or open issues if you have suggestions or improvements!
-
 
 ## Credits
 
-Created with ♥ by (https://github.com/cxelshal).
-
+Brought to you by **cxelshal@git**
