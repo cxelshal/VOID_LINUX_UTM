@@ -23,3 +23,6 @@ Follow along to create, partition, format, and configure a bootable Void Linux e
 ## Credits
 
 Brought to you by **cxelshal@git**
+
+##Enjoy
+[Installation Guide](Install.md)
